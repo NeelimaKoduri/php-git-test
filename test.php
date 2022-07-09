@@ -1,5 +1,5 @@
 <?php
 
 require_once("another.php");
-echo "Hello from git php folder";
+echo "Hello from git php folder<br> What a day!!>";
 ?>
