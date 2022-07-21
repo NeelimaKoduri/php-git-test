@@ -1,5 +1,5 @@
 <?php 
 
-echo "from another.php";
+echo "from another.php!!";
 
 ?>
